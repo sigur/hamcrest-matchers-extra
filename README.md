@@ -1,2 +1,3 @@
-# hamcrest-matchers-extra
-Add new funcitonalities to Hamcrest library
+# JHamcrest
+
+Java Kata based on the famous Hamcrest library
